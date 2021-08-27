@@ -1,5 +1,6 @@
 # R_Statistical_Computing_Portfolio_RubenGavidia0x.R
-'''
+
+´´´
 > x = matrix(1:9, ncol=3)
 > x
      [,1] [,2] [,3]
@@ -18,5 +19,5 @@
 [1] 6.661338e-16
 > all.equal(det(x),det(t))
 [1] TRUE
-'''
+´´´
 
