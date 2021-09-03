@@ -30,7 +30,9 @@
 ```
 
 ---------------------------
+Learning R Richard Cotton
 ---------------------------
 rubengavidia#6305
+
 rgavidia13@gmail.com
 
