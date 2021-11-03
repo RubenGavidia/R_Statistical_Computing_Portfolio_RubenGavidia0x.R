@@ -29,8 +29,25 @@
 [1] 0
 ```
 
+Rcode of stackoverflow test
+```
+# empty list to start with
+X <- list()
+# we get a vector
+v1 <- c(1, 2, 3, 4, 5)
+# add it to the ragged array
+X <- c(X, list(v1))
+# get another couple of vectors and add them as well
+v2 <- c(9, 8, 7, 6)
+v3 <- c(2, 4, 6, 8)
+X <- c(X, list(v2, v3))
+
+# add some more elements to the first vector in 
+# the vector directly
+X[[1]] <- c(X[[1]], 4, 3, 2, 1)
+```
 ---------------------------
-Learning R Richard Cotton
+
 ---------------------------
 rubengavidia#6305
 
