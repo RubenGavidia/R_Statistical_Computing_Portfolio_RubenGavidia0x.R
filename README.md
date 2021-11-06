@@ -1,4 +1,10 @@
 # R_Statistical_Computing_Portfolio_RubenGavidia0x.R
+
+Linkedin Assesment badge:
+
+![image](https://user-images.githubusercontent.com/35381213/140604163-4eaa04de-a8a0-42f7-abfc-888b39a25f55.png)
+
+
 ```
 > x = matrix(1:9, ncol=3)
 > x
