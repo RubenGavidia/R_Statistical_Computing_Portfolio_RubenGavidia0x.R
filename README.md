@@ -11,6 +11,8 @@ relationship between cilinders, highway miles per gallon (effiency) and engine d
 
 ![image](https://user-images.githubusercontent.com/35381213/143671353-f1fe8301-65c7-4cbf-afa9-fe9a8ff1a146.png)
 
+![image](https://user-images.githubusercontent.com/35381213/143672214-815ef589-3fc4-4367-8c0f-39c71f2fddcb.png)
+
 
 ```
 > x = matrix(1:9, ncol=3)
