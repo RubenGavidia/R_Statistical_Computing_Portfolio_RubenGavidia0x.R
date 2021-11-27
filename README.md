@@ -4,6 +4,11 @@ Linkedin Assesment badge:
 
 ![image](https://user-images.githubusercontent.com/35381213/140604163-4eaa04de-a8a0-42f7-abfc-888b39a25f55.png)
 
+Fuel economy data from 1999 to 2008 for 38 popular models of cars.
+relationship between cilinders, highway miles per gallon (effiency) and engine displacement, in litres (engine size)
+
+![image](https://user-images.githubusercontent.com/35381213/143671286-958b3595-0cfc-4e9e-9e1f-76ba7ffde240.png)
+
 
 ```
 > x = matrix(1:9, ncol=3)
