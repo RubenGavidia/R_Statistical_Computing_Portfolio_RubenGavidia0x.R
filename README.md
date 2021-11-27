@@ -11,7 +11,11 @@ relationship between cilinders, highway miles per gallon (effiency) and engine d
 
 ![image](https://user-images.githubusercontent.com/35381213/143671353-f1fe8301-65c7-4cbf-afa9-fe9a8ff1a146.png)
 
+#type of transmission
+
 ![image](https://user-images.githubusercontent.com/35381213/143672999-a696b16c-ddb9-4a8d-95ce-031e2e398a42.png)
+
+#the type of drive train, where f = front-wheel drive, r = rear wheel drive, 4 = 4wd
 
 ![image](https://user-images.githubusercontent.com/35381213/143672349-a57f13ba-ff4b-411a-bb05-135d8df92b93.png)
 
