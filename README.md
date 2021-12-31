@@ -4,6 +4,8 @@ Linkedin Assesment badge:
 
 ![image](https://user-images.githubusercontent.com/35381213/140604163-4eaa04de-a8a0-42f7-abfc-888b39a25f55.png)
 
+![city driving (mpg) - highway driving (mpg)](https://user-images.githubusercontent.com/35381213/147829777-71833fe1-a749-4911-8965-7961f00e5d32.png)
+
 ![3 date-personal savings rate](https://user-images.githubusercontent.com/35381213/147829674-5c3d6601-f37b-482f-b50e-54d5f2f9ff72.png)
 ![4 date-median duration of unemployment, in weeks,](https://user-images.githubusercontent.com/35381213/147829676-20232be0-77ce-4a16-8c6c-9d2c1d59c236.png)
 ![5 date-number of unemployed in thousands](https://user-images.githubusercontent.com/35381213/147829677-29ef34f8-6c95-4268-bc77-0878f6ed3a06.png)
