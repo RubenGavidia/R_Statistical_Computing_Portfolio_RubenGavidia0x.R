@@ -4,6 +4,14 @@ Linkedin Assesment badge:
 
 ![image](https://user-images.githubusercontent.com/35381213/140604163-4eaa04de-a8a0-42f7-abfc-888b39a25f55.png)
 
+![3 date-personal savings rate](https://user-images.githubusercontent.com/35381213/147829674-5c3d6601-f37b-482f-b50e-54d5f2f9ff72.png)
+![4 date-median duration of unemployment, in weeks,](https://user-images.githubusercontent.com/35381213/147829676-20232be0-77ce-4a16-8c6c-9d2c1d59c236.png)
+![5 date-number of unemployed in thousands](https://user-images.githubusercontent.com/35381213/147829677-29ef34f8-6c95-4268-bc77-0878f6ed3a06.png)
+![5_1 date-number of unemployed in thousands](https://user-images.githubusercontent.com/35381213/147829678-8f34769a-4e51-4839-8a02-9ffe982aa560.png)
+![Fuel Economy dataset count type of cars by class](https://user-images.githubusercontent.com/35381213/147829679-dfa0788b-8f9a-402e-9108-0469f7a2923a.png)
+![1 month of data collection - total population, in thousands](https://user-images.githubusercontent.com/35381213/147829681-778e1564-c537-4385-b9c0-bc2441f8931e.jpeg)
+![2 date-personal consumption expenditures](https://user-images.githubusercontent.com/35381213/147829685-9586ebac-6bb3-4679-9162-e100de4d3193.jpeg)
+
 Fuel economy data from 1999 to 2008 for 38 popular models of cars.
 relationship between cilinders, highway miles per gallon (effiency) and engine displacement, in litres (engine size)
 
